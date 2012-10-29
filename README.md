@@ -7,10 +7,15 @@ This case study was developed to test techniques that deal with many different g
 In this folder find the following files and folders: -
 
 MODEL SCENARIOS
+
 PRODUCTION DATA
+
 RAW DATA
+
 REL_PERM_DATA
+
 Appendix.pdf
+
 
 For more information on the field and the field study please read appendix.pdf.  The model data is contained in the other 4 folders.  Each of the 81 scenarios is found inside the MODEL SCENARIOS folder.  The labelling convention is explained in appendix.pdf Table 1.  Choose whichever scenario you wish from within this section.
 

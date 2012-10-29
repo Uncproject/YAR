@@ -2,6 +2,7 @@ CAGEO Benchmark Case studies 2012.  Watt Field for history matching different ge
 =================
 
 OVERVIEW
+
 This case study was developed to test techniques that deal with many different geological scenarios that are hard in practice to parameterise between for problems like history matching and uncertainty quantification.  As such a set of 81 realisations of a simulation model are developed which along with a set of uncertain relative permeability measurements create many possible models of the reservoir which can all be calibrated to the production data.  The task was to choose only one or many of these models (and which ones) for making predictions.
 In this folder find the following files and folders: -
 
